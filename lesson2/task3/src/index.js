@@ -1,4 +1,4 @@
-import { usersStore } from "./store.js";
+import usersStore from "./store.js";
 import { addUser, deleteUser } from "./users.actions.js";
 
 usersStore.dispatch(addUser({ name: "Sarah", id: 76 }));
