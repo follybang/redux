@@ -1,4 +1,3 @@
-import "./index.scss";
 import store from "./store.js";
 import { addUser, deleteUser } from "./users.actions.js";
 
