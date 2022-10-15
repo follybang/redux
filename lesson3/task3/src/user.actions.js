@@ -8,7 +8,7 @@ export const setUser = (userData) => {
   };
 };
 
-export const removerUser = () => {
+export const removeUser = () => {
   return {
     type: REMOVE_USER,
   };
