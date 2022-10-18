@@ -12,8 +12,8 @@ const UsersList = ({ users, nextPage, prevPage }) => {
   return (
     <div>
       <Pagination
-        prevPage={prevPage}
-        nextPage={nextPage}
+        goPrev={prevPage}
+        goNext={nextPage}
         currentPage={currentPage}
         totalItems={usersList.length}
         itemsPerPage={itemsPerPage}
