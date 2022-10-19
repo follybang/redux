@@ -31,6 +31,31 @@ const users = [
     age: 45,
     name: "John",
   },
+  {
+    id: "id-6",
+    age: 45,
+    name: "Andrew",
+  },
+  {
+    id: "id-7",
+    age: 45,
+    name: "Pol",
+  },
+  {
+    id: "id-8",
+    age: 45,
+    name: "Ron",
+  },
+  {
+    id: "id-9",
+    age: 45,
+    name: "Harry",
+  },
+  {
+    id: "id-10",
+    age: 45,
+    name: "Anna",
+  },
 ];
 
 const initState = {
