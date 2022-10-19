@@ -26,6 +26,11 @@ const users = [
     age: 45,
     name: "Franklin",
   },
+  {
+    id: "id-5",
+    age: 45,
+    name: "John",
+  },
 ];
 
 const initState = {
